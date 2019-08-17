@@ -1,0 +1,6 @@
+/*small message8*/
+#include<stdio.h>
+main()
+{
+printf("hello world");
+}
