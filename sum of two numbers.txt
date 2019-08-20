@@ -1,0 +1,19 @@
+/* genrerl sum of two numbers*/
+
+#include<stdio.h>
+
+main()
+
+{
+
+    int a,b,c;
+
+    printf("enter numbers a and b:");
+
+    scanf("%d%d",&a,&b);
+
+    c=a+b;
+
+    printf("\n sum of the numbers %d+%d= %d",a,b,c);
+
+}
